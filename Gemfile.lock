@@ -1,3 +1,12 @@
+PATH
+  remote: .
+  specs:
+    jekyll-theme-hydeout (4.2.0)
+      jekyll (>= 3.6, < 5.0)
+      jekyll-feed (~> 0.6)
+      jekyll-gist (~> 1.4)
+      jekyll-paginate (~> 1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -54,11 +63,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-theme-hydeout (4.2.0)
-      jekyll (>= 3.6, < 5.0)
-      jekyll-feed (~> 0.6)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -122,13 +126,8 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
-  http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.3.3)
-  jekyll-feed (~> 0.12)
-  jekyll-theme-hydeout (~> 4.1)
-  tzinfo (>= 1, < 3)
-  tzinfo-data
-  wdm (~> 0.1.1)
+  bundler (~> 2.1, >= 2.1.4)
+  jekyll-theme-hydeout!
 
 BUNDLED WITH
    2.5.18
