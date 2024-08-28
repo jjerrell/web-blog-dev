@@ -102,14 +102,13 @@ experiences:
         time: 03/2022 - Present
         company: "[Instrumental Services d.b.a. InRhythm](https://inrhythm.com)"
         details: |
-          Consulting with **[Fidelity Investments](https://www.fidelity.com)**. Contributed to iOS and 
-          Android Flagship applications within the Youth Sector before
-          transitioning to bring Fidelity Bloom® to the Android market as
-          a lead engineer and consultant. I was responsible for onboarding 
-          and mentoring fellow engineers, consulting with stakeholders, and
-          delivering a multitude of features as an individual contributor.
-          I worked side-by-side with the Android Tech Lead to identify and
-          implement solutions.
+          Consulting with **[Fidelity Investments](https://www.fidelity.com)**. Contributed to 
+          [iOS](https://apps.apple.com/us/app/fidelity-investments/id348177453) and [Android Flagship](https://play.google.com/store/apps/details?id=com.fidelity.android) 
+          applications within the Youth Sector before transitioning to bring [Fidelity Bloom®](https://play.google.com/store/apps/details?id=com.fidelity.sqrl) 
+          to the Android market as a lead engineer and consultant. I was responsible for onboarding 
+          and mentoring fellow engineers, consulting with stakeholders, and delivering a multitude 
+          of features as an individual contributor. I worked side-by-side with the Android Tech 
+          Lead to identify and implement solutions.
             - Subject matter expert for Home, Account Pages, Growth, and Feature Configurations.
             - Massive contributor to the architecture of domain layers and setting standards for UI practices using Jetpack Compose.
             - Participated in root-cause-analysis sessions to rapidly identify and implement a variety of solutions.
