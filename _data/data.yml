@@ -191,12 +191,12 @@ projects:
         tagline: "A diary for your garden or anything else that suits your thumbs."
 
       - title: Fidelity Bloom®
-        link: "#hook"
-        tagline: ""
+        link: "https://play.google.com/store/apps/details?id=com.fidelity.sqrl"
+        tagline: "An easy-to-use app that helps you learn how to save and invest so you can make smart money decisions now and after graduation."
 
       - title: FMH Dashboard®
-        link: "#"
-        tagline: ""
+        link: "https://play.google.com/store/apps/details?id=com.jardogs.fmhprovider"
+        tagline: "Connect with patients on-the-go using the FMH Dashboard administrative app for healthcare teams!"
 
 # oss:
 #     title: OSS Contributions
