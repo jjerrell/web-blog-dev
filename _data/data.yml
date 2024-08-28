@@ -103,8 +103,8 @@ experiences:
         company: "[Instrumental Services d.b.a. InRhythm](https://inrhythm.com)"
         details: |
           Consulting with **[Fidelity Investments](https://www.fidelity.com)**. Contributed to 
-          [iOS](https://apps.apple.com/us/app/fidelity-investments/id348177453) and [Android Flagship](https://play.google.com/store/apps/details?id=com.fidelity.android) 
-          applications within the Youth Sector before transitioning to bring [Fidelity Bloom®](https://play.google.com/store/apps/details?id=com.fidelity.sqrl) 
+          **[iOS](https://apps.apple.com/us/app/fidelity-investments/id348177453)** and **[Android Flagship](https://play.google.com/store/apps/details?id=com.fidelity.android)** 
+          applications within the Youth Sector before transitioning to bring **[Fidelity Bloom®](https://play.google.com/store/apps/details?id=com.fidelity.sqrl)**
           to the Android market as a lead engineer and consultant. I was responsible for onboarding 
           and mentoring fellow engineers, consulting with stakeholders, and delivering a multitude 
           of features as an individual contributor. I worked side-by-side with the Android Tech 
@@ -117,7 +117,7 @@ experiences:
         company: "[Allscripts LLC](https://www.allscripts.com)"
         details: |
           Transitioning to engineering from a specialized support role, I brought a wide range
-          of expertise to the table as a newcomer to the iOS engineering space for the [Avenel EHR](https://investor.veradigm.com/news-releases/news-release-details/allscripts-launches-industrys-first-machine-learning-ehr-0). 
+          of expertise to the table as a newcomer to the iOS engineering space for the **[Avenel EHR](https://investor.veradigm.com/news-releases/news-release-details/allscripts-launches-industrys-first-machine-learning-ehr-0)**. 
           Initial tasks would include a handful of small bugfixes before being thrust into a 
           full-scale refactor of the iOS applications service layer. We would migrate the entire 
           service layer from relying on a monolothic API services to a suite of microservices. 
@@ -127,13 +127,13 @@ experiences:
           my influence throughout the codebase by achieving multiple certifications, refactoring 
           complex engines such as provider tasking, and advocating for as well as implementing 
           client and support desk needs or requirements.
-            - Achieved [Electronic Prescription of Controlled Substances](https://www.deadiversion.usdoj.gov/ecomm/thirdparty.html), [FHIR HL7](https://www.fhir.org), and [Meaningful Use](https://www.ama-assn.org/practice-management/medicare-medicaid/meaningful-use-electronic-health-record-ehr-incentive) healthcare application certifications.
+            - Achieved **[Electronic Prescription of Controlled Substances](https://www.deadiversion.usdoj.gov/ecomm/thirdparty.html)**, **[FHIR HL7](https://www.fhir.org)**, and **[Meaningful Use](https://www.ama-assn.org/practice-management/medicare-medicaid/meaningful-use-electronic-health-record-ehr-incentive)** healthcare application certifications.
             - Revamped a complex tasking system to meet client needs while augmenting it with nearly a dozen more task types in support of electronic prescriptions.
             - Became a highly capable subject matter expert for a majority of the application.
             - Regularly attended a variety of meetings with customers and led the technical side of client implementations.
-            - Went on to lead the iOS development of the [FollowMyHealth Patient application](https://apps.apple.com/us/app/followmyhealth/id502147249).
-            - Gained expertise with Android by reviewing PRs for the [Android FollowMyHealth Patient application](https://play.google.com/store/apps/details?id=com.jardogs.fmhmobile).
-            - Continued mastery of the Android platform by developing the [FMH Dashboard](https://play.google.com/store/apps/details?id=com.jardogs.fmhprovider) provider application at the height of the COVID pandemic.
+            - Went on to lead the iOS development of the **[FollowMyHealth Patient application](https://apps.apple.com/us/app/followmyhealth/id502147249)**.
+            - Gained expertise with Android by reviewing PRs for the **[Android FollowMyHealth Patient application](https://play.google.com/store/apps/details?id=com.jardogs.fmhmobile)**.
+            - Continued mastery of the Android platform by developing the **[FMH Dashboard](https://play.google.com/store/apps/details?id=com.jardogs.fmhprovider)** provider application at the height of the COVID pandemic.
 
 # certifications: # TODO
 #       title: Certifications
