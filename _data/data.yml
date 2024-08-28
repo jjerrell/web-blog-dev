@@ -110,31 +110,31 @@ experiences:
           delivering a multitude of features as an individual contributor.
           I worked side-by-side with the Android Tech Lead to identify and
           implement solutions.
-            - Subject matter expert for Home, Account Pages, and Feature Configurations.
+            - Subject matter expert for Home, Account Pages, Growth, and Feature Configurations.
             - Massive contributor to the architecture of domain layers and setting standards for UI practices using Jetpack Compose.
             - Participated in root-cause-analysis sessions to rapidly identify and implement a variety of solutions.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      # - role: Senior Software Engineer
+      #   time: 2014 - 2015
+      #   company: Google, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
+      # - role: UI Developer
+      #   time: 2012 - 2014
+      #   company: Amazon, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
 
 # certifications: # TODO
 #       title: Certifications
@@ -185,7 +185,7 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: RootRecords
-        link: "#"
+        link: "https://github.com/jjerrell/RootRecords"
         tagline: "A diary for your garden or anything else that suits your thumbs."
 
       - title: Fidelity Bloom®
