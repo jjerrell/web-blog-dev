@@ -196,24 +196,24 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.jardogs.fmhprovider"
         tagline: "Connect with patients on-the-go using the FMH Dashboard administrative app for healthcare teams!"
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+    title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: QMK Userspace
+        link: "https://github.com/jjerrell/qmk_userspace"
+        tagline: "A collection of ergonomic and efficient keyboard layout firmwares used daily on my various personal keyboards."
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: QMK Firmware
+        link: "https://github.com/qmk/qmk_firmware/pulls?q=is%3Apr+is%3Aclosed+author%3AJacobJerrell"
+        tagline: "This is a keyboard firmware based on the tmk_keyboard firmware with some useful features for Atmel AVR and ARM controllers, and more specifically, the OLKB product line, the ErgoDox EZ keyboard, and the Clueboard product line."
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
 #     title: Publications
