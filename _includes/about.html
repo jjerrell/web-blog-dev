@@ -1,5 +1,4 @@
 {% assign about-me = site.data.data.about-me %}
-{% if about-me %}
 <div class="remove-container container-block">
   <h2 class="container-block-title">
     {{ about-me.title }}
@@ -8,4 +7,3 @@
     {{ about-me.summary | markdownify }}
   </div><!--//summary-->
 </div><!--//About-->
-{% endif %}
