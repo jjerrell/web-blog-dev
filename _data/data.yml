@@ -100,9 +100,9 @@ experiences:
     info:
       - role: Lead Android Engineer
         time: 03/2022 - Present
-        company: [Instrumental Services d.b.a. InRhythm](https://inrhythm.com)
+        company: "[Instrumental Services d.b.a. InRhythm](https://inrhythm.com)"
         details: |
-          Consulting with **[Fidelity Investments](https://www.fidelity.com)**. Contributed to iOS and 
+          Consulting with **"[Fidelity Investments](https://www.fidelity.com)"**. Contributed to iOS and 
           Android Flagship applications within the Youth Sector before
           transitioning to bring Fidelity Bloom® to the Android market as
           a lead engineer and consultant. I was responsible for onboarding 
@@ -111,10 +111,8 @@ experiences:
           I worked side-by-side with the Android Tech Lead to identify and
           implement solutions.
             - Subject matter expert for Home, Account Pages, and Feature Configurations.
-            - Massive contributor to the architecture of domain layers and setting standards
-              for UI practices using Jetpack Compose.
-            - Participated in root-cause-analysis sessions to rapidly identify and implement 
-              a variety of solutions.
+            - Massive contributor to the architecture of domain layers and setting standards for UI practices using Jetpack Compose.
+            - Participated in root-cause-analysis sessions to rapidly identify and implement a variety of solutions.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
