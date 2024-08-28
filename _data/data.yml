@@ -112,28 +112,25 @@ experiences:
             - Subject matter expert for Home, Account Pages, Growth, and Feature Configurations.
             - Massive contributor to the architecture of domain layers and setting standards for UI practices using Jetpack Compose.
             - Participated in root-cause-analysis sessions to rapidly identify and implement a variety of solutions.
-      # - role: Senior Software Engineer
-      #   time: 2014 - 2015
-      #   company: Google, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
-      # - role: UI Developer
-      #   time: 2012 - 2014
-      #   company: Amazon, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
+      - role: Software Engineer
+        time: 09/2017-03/2022
+        company: Allscripts LLC
+        details: |
+          Transitioning to engineering from a specialized support role, I brought a wide range
+          of expertise to the table as a newcomer to the iOS engineering space. Initial tasks
+          would include a handful of small bugfixes before being thrust into a full-scale refactor
+          of the iOS applications service layer. We would migrate the entire service layer from
+          relying on a monolothic API services to a suite of microservices. To expedite initial
+          delivery and improve future iterations, I would customize a code generator to poll a
+          list of APIs for their Swagger (now OpenAPI) Specs and generate our highly customized
+          DTO/RxWrapper model layer. I would go on to continue spreading my influence throughout
+          the codebase by achieving multiple certifications, refactoring complex engines such as
+          provider tasking, and advocating for as well as implementing client and support desk
+          needs or requirements.
+            - Achieved Electronic Prescription of Controlled Substances, FHIR HL7, and Meaningful Use healthcare application certifications.
+            - Revamped a complex tasking system to meet client needs while augmenting it with nearly a dozen more task types in support of electronic prescriptions.
+            - Became a highly capable subject matter expert for a majority of the application.
+            - Regularly attended a variety of meetings with customers and led the technical side of client implementations.
 
 # certifications: # TODO
 #       title: Certifications
