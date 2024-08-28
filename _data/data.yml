@@ -54,6 +54,12 @@ sidebar:
         - item: Baking
           link:
 
+        - item: Electricity
+          link:
+
+        - item: Audio Systems
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -92,21 +98,23 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Android Engineer
+        time: 03/2022 - Present
+        company: Instrumental Services d.b.a. InRhythm
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Consulting with **Fidelity Investments**. Contributed to iOS and 
+          Android Flagship applications within the Youth Sector before
+          transitioning to bring Fidelity Bloom® to the Android market as
+          a lead engineer and consultant. I was responsible for onboarding 
+          and mentoring fellow engineers, consulting with stakeholders, and
+          delivering a multitude of features as an individual contributor.
+          I worked side-by-side with the Android Tech Lead to identify and
+          implement solutions.
+            - Subject matter expert for Home, Account Pages, and Feature Configurations.
+            - Massive contributor to the architecture of domain layers and setting standards
+              for UI practices using Jetpack Compose.
+            - Participated in root-cause-analysis sessions to rapidly identify and implement 
+              a variety of solutions.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
